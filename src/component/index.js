@@ -36,9 +36,9 @@ function Home() {
                                 <div className="main-menu">
                                     <nav className="d-none d-lg-block">
                                         <ul id="navigation">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="job_listing.html">Find a Jobs </a></li>
-                                            <li><a href="about.html">About</a></li>
+                                            <li><a href="./index.html">Home</a></li>
+                                            <li><a href="./job_listing.html">Find a Jobs </a></li>
+                                            <li><a href="./about.html">About</a></li>
                                             <li><a href="#">Page</a>
                                                 <ul className="submenu">
                                                     <li><a href="blog.html">Blog</a></li>
