@@ -5,7 +5,7 @@ import Form from './component/Form'
 const google=window.google
 function App() {
   return (
-    <Form />  );
+    <Home />  );
 }
 
 export default App;
